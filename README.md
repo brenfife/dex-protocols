@@ -2,8 +2,8 @@
 
 ### Strengths/Weaknesses are only very well- commonly 
 
-| Protocol  | Asset(s) | Blockchain(s) | Status | Notes | Strengths | Weaknesses |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Protocol  | Asset(s) | Blockchain(s) | Status | Notes | Strengths | 
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of ERC20 with off-chain relayers. |
 | [AirSwap](https://www.airswap.io/?gclid=CjwKCAjw6djYBRB8EiwAoAF6oVSggi-5aPa3yPBvelB-P0CnZH3Y3iytMtbfGbZktTt9-JzjFx3_kRoCWkYQAvD_BwE) |  |  |  |  |  |  |
 | [Bancor](https://www.bancor.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open protocol. On-chain exchange and pricing. |
