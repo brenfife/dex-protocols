@@ -1,6 +1,6 @@
 # Protocols for Decentralized Exchange
 
-# Strengths/Weaknesses are only very well- commonly 
+### Strengths/Weaknesses are only very well- commonly 
 
 | Protocol  | Asset(s) | Blockchain(s) | Status | Notes | Strengths | Weaknesses |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
