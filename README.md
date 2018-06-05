@@ -38,24 +38,5 @@ For our purposes, DEX is short for Decentralized Exchange.
 | [Swap](https://swap.tech/faq/)  | ERC20 Tokens  | Ethereum | Under development | Closed protocol. Plans to become an open protocol. |
 | [TPL](https://tplprotocol.org/) | TBC | TBC | [Proof of concept](https://tplprotocol.org/pdf/TPL%20-%20Transaction%20Permission%20Layer.pdf) |  |
 | [WandX](https://www.wandx.co/) | ERC20 Tokens, ERC20 Token Baskets | Ethereum | Under development | Closed protocol. |
-| WAVES |  |  |  |  |  |  |
+| [Waves](https://wavesplatform.com/) |  |  |  |  |  |  |
 | [Wyvern](https://projectwyvern.com/)  | Nonfungible Ethereum assets  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of nonfungible Ethereum assets with off-chain orderbooks. |
-
----
-[1] The OmiseGo white paper claims “this high-performant distributed network enforces exchange across as-set classes, from fiat-backed issuers to fully decentralized blockchain tokens (ERC-20 style and native cryptocurrencies).”
-
-[2] The Enigma Catalyst [white paper](https://www.enigma.co/enigma_catalyst.pdf) proposes an architecture for cross-chain atomic swaps using layer 2 solutions (also known as state channels). As far as I can tell, this is not currently being developed by the Enigma team.
-
-[3] Bitshares claims that you can trade collateralized SmartCoins on the Bitshares blockchain. Bitshares claims to hold the collateral for these SmartCoins.
-
-[4] https://blog.komodoplatform.com/everything-you-need-to-know-about-atomic-swaps-and-how-komodo-is-advancing-the-technology-cadaec50da7c
-
-[5] Investors send funds to the "fund manager" and then receive a proportional number of the fund's shares in return.
-
-[6] A company called [Aphelion](https://aphelion.org/) is developing this protocol in order to build their own DEX on top of it. I could not determine from the white paper if they are planning to open this protocol up to others or not. It is unclear from the whitepaper just how many assets this protocol will support.
-
-[7] "Manage Offer" is an example of a function native to Stellar's scripting language https://www.stellar.org/developers/guides/concepts/list-of-operations.html#manage-offer
-
-[8] https://ripple.com/build/transactions/#offercreate
-
-[9] [This work-in-progress document](https://github.com/ExchangeUnion/Docs/blob/master/XU-TechnicalPaper.md) outlines the use of payment/state channels with atomic swaps and the decentralized orderbook approach of Exchange Union. All chains with BIP 199 compatible payment channels can be supported directly, others need a HTLC atomic swap implementation via smart contracts or similar.
