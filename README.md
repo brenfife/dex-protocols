@@ -3,16 +3,19 @@ This is a list of protocols for peer-to-peer exchange of cryptographic assets. T
 
 For our purposes, DEX is short for Decentralized Exchange.
 
-| Protocol  | Asset(s) | Blockchain(s) | Status | Notes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Protocol  | Asset(s) | Blockchain(s) | Status | Notes | Strengths | Weaknesses |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of ERC20 with off-chain relayers. |
+| [AirSwap](https://www.airswap.io/?gclid=CjwKCAjw6djYBRB8EiwAoAF6oVSggi-5aPa3yPBvelB-P0CnZH3Y3iytMtbfGbZktTt9-JzjFx3_kRoCWkYQAvD_BwE) |  |  |  |  |  |  |
 | [Bancor](https://www.bancor.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Open protocol. On-chain exchange and pricing. |
 | [Bisq](https://bisq.network/) | All | Bitcoin | Live | Generic exchange for cryptocurrencies. |
 | [Bitshares](https://bitshares.org/) | Bitshares, Bitshares SmartCoins[3] | Bitshares | Live on Bitshares mainnet | Open protocol. Bitshares created a DEX on top of their blockchain. Other DEX's for Bitshares also exist. |
 | [CDX](https://github.com/YouDex/cdx) | All | Ethereum, Youdex Sidechain | Proposed | Open protocol. Coin direct exchange, cross-chain atomic swap. |
 | [COMIT](http://www.comit.network/) | All[2] | All[2]  | Proposed | Open protocol. Off-chain. Utilizes state channels & 3rd party liquidity providers. |
+| [COSMOS](https://cosmos.network/) |  |  |  |  |
 | [Counterparty](https://counterparty.io/) | Bitcoin, Counterparty Tokens | Bitcoin | Live on Bitcoin mainnet | Open protocol. Counterparty extends Bitcoin by adding metadata to Bitcoin transactions. |
 | [DEAL](https://aphelion.org/wp.html) | NEO Assets[6] | NEO | Under development | Closed protocol[6]. Implemented as smart contracts on the NEO blockchain. |
+| [Decred](https://www.decred.org/) |  |  |  |  |  |  |
 | [Dharma](https://dharma.io/) | ERC20 Tokens, Dharma Debt Token | Ethereum | Under development | Open protocol. Debt contracts. |
 | [Dydx](https://dydx.exchange/) | ERC20 Tokens, Dydx Derivatives (Option, Short Sell) | Ethereum | Under development | Open protocol. Derivatives contracts, uses 0x. |
 | [Enigma](https://www.enigma.co/) | All[2] | All[2] | Proposed | The Engima team is working on many projects. A protocol for decentralized exchanged was proposed in one of their papers. |
@@ -20,9 +23,11 @@ For our purposes, DEX is short for Decentralized Exchange.
 | [Komodo](https://www.komodoplatform.com/) | N/A | Komodo | Under development | Closed protocol. Leverages cross chain atomic swaps[4]. |
 | [Kyber Network](https://kyber.network/) | ERC20 Tokens | Ethereum | Live on Ethereum mainnet | Closed protocol. Kyber is two things: a product for exchanging, and smart contracts used by that exchange. Only Kyber can use the contracts. |
 | [Lendroid](https://lendroid.com/) | ERC20 Tokens | Ethereum | Under development | Open protocol. Margin Loans. |
+| [Gemini](https://gemini.com/) |||||||
 | [MARKET Protocol](https://www.marketprotocol.io/) | Derivatives | Ethereum | Under development | Open protocol. Cross Chain and real world assets. |
 | [Melon](https://melonport.com/) | ERC20 Tokens, Melon Fund Shares[5] | Ethereum | Live on Ethereum mainnet | Open protocol. A protocol for creating an investment fund that holds an arbitrary number of underlying ERC20 tokens. |
 | [OmiseGo](https://omisego.network/) | All[1] | All[1] | Under development | Open protocol. A blockchain with built-in support for decentralized exchange. |
+| [Radar Relay](https://radarrelay.com/team/) |  |  |  |  |  |  |
 | [Raiden Network](https://raiden.network/) | ERC20 Tokens | Ethereum | Under development | Off-chain ERC20 token exchange. Similar to Lightning Network for Bitcoin. |
 | [Republic](https://republicprotocol.com/) | ERC20 Tokens, Ether, Bitcoin | Ethereum, Bitcoin | Under development | Open protocol.  Trustless cross-chain atomic trading of Ether, ERC20 tokens and Bitcoin pairs |
 | [Ripple](https://ripple.com/) | XRP, Ripple Issued Currencies | Ripple | Live on Ripple mainnet | Open protocol. Ripple has builtin transaction types such as `Offer Create`[8] that allow anyone to trustlessly exchange Ripple based assets. |
@@ -33,6 +38,7 @@ For our purposes, DEX is short for Decentralized Exchange.
 | [Swap](https://swap.tech/faq/)  | ERC20 Tokens  | Ethereum | Under development | Closed protocol. Plans to become an open protocol. |
 | [TPL](https://tplprotocol.org/) | TBC | TBC | [Proof of concept](https://tplprotocol.org/pdf/TPL%20-%20Transaction%20Permission%20Layer.pdf) |  |
 | [WandX](https://www.wandx.co/) | ERC20 Tokens, ERC20 Token Baskets | Ethereum | Under development | Closed protocol. |
+| WAVES |  |  |  |  |  |  |
 | [Wyvern](https://projectwyvern.com/)  | Nonfungible Ethereum assets  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of nonfungible Ethereum assets with off-chain orderbooks. |
 
 ---
