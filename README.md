@@ -1,7 +1,5 @@
 # Protocols for Decentralized Exchange
 
-### Strengths/Weaknesses are only very well- commonly 
-
 | Protocol  | Asset(s) | Blockchain(s) | Status | Notes |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | [0x](https://www.0xproject.com/)  | ERC20 Tokens  | Ethereum | Live on Ethereum mainnet | Open protocol. Generic exchange of ERC20 with off-chain relayers. |
